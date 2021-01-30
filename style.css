@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+
+}
+.bg-info{
+
+    background-image:linear-gradient(0deg, rgba(73, 102, 231, 0.3), rgba(44, 76, 219, 0.3)), url("A.jpeg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center ;
+    opacity:0.9 ;
+    height: 100%;
+    width:100vh;
+
+
+
+
+
+
+    color: #fff;
+    height: auto;
+    width: 100%;
+}
+.dec{
+    text-decoration: none;
+    color:#fff;
+}
+button{
+    background: transparent;
+    border-radius: 5px;
+    width: auto;
+    height: 6rem;
+
+    color: #fff;
+
+}
+.navigation{
+    padding-left: 55rem;
+    background: transparent;
+}
+.trans{
+    background-color: transparent;
+}
+.text{
+    cursor: pointer;
+}
+.text:hover{
+    color: red;
+    opacity: unset;
+}
+.image{
+    width: auto;
+    height: 40px;
+}
+.mid
+{
+    width: 100%;
+    height: auto;
+}
+.width{
+    width: 11rem;
+
+}
+.img-attribute{
+    width:3rem ;
+    height: 18rem;
+
+}
+.hover:hover{
+    background-color: rgb(229, 190, 190);
+}
+.hover-quote:hover{
+    color: rgb(101, 13, 241);
+}
